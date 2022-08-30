@@ -1,0 +1,1 @@
+this foldr is for database schemas to be used in the mongoose database 
